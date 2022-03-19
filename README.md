@@ -28,8 +28,7 @@
   <br>
   <h3>😊 About Me</h3>
   
-  
-  <br><br>   
+   
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjygogogo)](https://solved.ac/wjygogogo)
